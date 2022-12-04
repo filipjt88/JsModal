@@ -1,6 +1,6 @@
-let modalBtn = document.querySelector(".modal-btn");
+let modalBtn   = document.querySelector(".modal-btn");
 let modal      = document.querySelector(".modal-overlay");
-let closeBtn  = document.querySelector(".close-btn");
+let closeBtn   = document.querySelector(".close-btn");
 
 
 modalBtn.addEventListener("click", () => {
